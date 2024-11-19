@@ -2,8 +2,8 @@
 	"name": "scribbly",
 	"description": "a collaborative online whiteboard to brainstorm, plan, and visualize ideas in real-time",
 	"author": {
-		"name": "Scribbly Inc",
-		"url": "https://github.com/ScribblyInc"
+		"name": "The Pinboard Company",
+		"url": "https://github.com/ThePinboardCompany"
 	},
 	"private": true,
 	"version": "0.0.0",
