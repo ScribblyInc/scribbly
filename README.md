@@ -9,13 +9,14 @@ Scribbly is a collaborative online whiteboard designed to help teams and individ
 ### Checklist
 
 - [x] **React**
+- [x] **TypeScript**
 - [x] **Vite**
-- [x] **Aceternity / Shadcn**
-- [ ] **TanStack Router**
+- [x] **Shadcn**
+- [x] **TanStack Router**
 - [x] **Tailwind CSS**
 - [ ] **Zustand**
 - [ ] **Konva.js**
-- [x] **Cloudflare D1** (binded)
 - [ ] **Clerk**
 - [ ] **Socket.IO**
+- [x] **Cloudflare D1** (binded)
 - [x] **Cloudflare Pages**
