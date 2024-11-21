@@ -1,5 +1,6 @@
 # Scribbly - Scribble your mind in realtime
 
+> [!IMPORTANT]
 > :warning: This project is still under **active development**, so expect some bugs and missing features. :warning:
 
 > Collaborate, sketch, and create on your digital whiteboard
