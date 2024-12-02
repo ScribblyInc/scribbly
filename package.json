@@ -29,7 +29,7 @@
 	},
 	"devDependencies": {
 		"@cloudflare/workers-types": "^4.20241127.0",
-		"@eslint/js": "^9.15.0",
+		"@eslint/js": "^9.16.0",
 		"@tailwindcss/typography": "^0.5.15",
 		"@tanstack/eslint-plugin-router": "^1.81.9",
 		"@tanstack/router-devtools": "^1.82.1",
